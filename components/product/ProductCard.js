@@ -4,7 +4,7 @@ import { formatPrice } from "@/utils/util"
 
 export default function ProductCard({ product }){
   return (
-    <a href={`/product/${product._id}`} className="w-full p-3 flex flex-col">
+    <a href={`/products/${product._id}`} className="w-full p-3 flex flex-col">
       <div className="aspect-[16/9] relative">
         <img className="aspect-[16/9] rounded-md object-cover" src={product.image} alt={product.title} />
       </div>
