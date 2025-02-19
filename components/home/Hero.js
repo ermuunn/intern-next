@@ -11,7 +11,7 @@ export default function Hero() {
           <div className="text-center">
             <h1 className="text-balance text-5xl font-semibold tracking-tight text-zinc-900 sm:text-7xl">Сайн уу 👋</h1>
             <p className="mt-8 text-pretty text-lg font-medium text-zinc-500 sm:text-xl/8">
-              Датаком ХХК нь ICANN олон улсын корпорацийн албан ёсны итгэмжлэлтэй .MN Домэйн нэрийн бүртгэгч байгууллага бөгөөд мөн Google компанийн албан ёсны төлөөлөгчөөр ажилладаг.
+              Датаком ХХК нь ICANN олон улсын корпорацийн албан ёсны итгэмжлэлтэй .MN Домэйн нэрийн бүртгэгч байгууллага бөгөөд мөн Google компанийн албан ёсны төлөөлөгчөөр ажилладаг болно.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a href="https://datacom.mn" target="__blank" className="rounded-md bg-gradient-to-r from-pink-500 to-pink-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
