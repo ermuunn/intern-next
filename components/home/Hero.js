@@ -9,7 +9,7 @@ export default function Hero() {
         </div>
         <div className="mx-auto max-w-2xl py-32 sm:py-48">
           <div className="text-center">
-            <h1 className="text-balance text-5xl font-semibold tracking-tight text-zinc-900 sm:text-7xl">Сайн уу 👋</h1>
+            <h1 className="text-balance text-5xl font-semibold tracking-tight text-zinc-900 sm:text-7xl">Сайн уу</h1>
             <p className="mt-8 text-pretty text-lg font-medium text-zinc-500 sm:text-xl/8">
               Датаком ХХК нь ICANN олон улсын корпорацийн албан ёсны итгэмжлэлтэй .MN Домэйн нэрийн бүртгэгч байгууллага бөгөөд мөн Google компанийн албан ёсны төлөөлөгчөөр ажилладаг.
             </p>
